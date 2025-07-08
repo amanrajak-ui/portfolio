@@ -3,13 +3,13 @@
 Welcome to my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**, showcasing my skills, projects, and contact information. The site reflects my journey as a developer and my passion for building user-friendly, responsive web applications.
 
 ## 🚀 Demo 
-![S![Screenshot (146)](https://github.com/user-attachments/assets/158aa1e8-b083-45d3-98df-174642ec5cb5)
+![Screenshot (145)](https://github.com/user-attachments/assets/ca5547ab-5e9b-49d4-bd45-23749a09a72d)
 
-![Screenshot (146)](https://github.com/user-attachments/assets/737a707f-603d-4013-a16e-be27fece2325)
 
-![Screenshot (147)](https://github.com/user-attachments/assets/616aca5e-598f-4fd8-bd27-ea74529cdecd)
+![Screenshot (146)](https://github.com/user-attachments/assets/56e3b408-0332-4da7-9380-ba5539c4ad0d)
 
-![Screenshot (148)](https://github.com/user-attachments/assets/1cb80463-f926-42b7-8e9e-66cadddfef78)
+
+
 
 
 ---
